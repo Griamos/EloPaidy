@@ -1,0 +1,12 @@
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Release\xRP_Ashe.exe.config
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Release\xRP_Ashe.exe
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Release\xRP_Ashe.pdb
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Release\EloBuddy.dll
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Release\EloBuddy.SDK.dll
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Release\SharpDX.dll
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Release\Newtonsoft.Json.dll
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\obj\Release\xRP_Ashe.csprojResolveAssemblyReference.cache
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\obj\Release\xRP_Ashe.exe
+C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\obj\Release\xRP_Ashe.pdb
