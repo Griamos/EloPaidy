@@ -1,1 +1,2 @@
 C:\Users\Beadwarf\Documents\GitHub\EloBuddy\xRP_Ashe\xRP_Ashe\bin\Debug\xRP_Ashe.exe.config
+C:\Users\Beadwarf\Documents\GitHub\EloPaidy\xRP_Ashe_Fixed\xRP_Ashe\bin\Debug\xRP_Ashe.exe.config

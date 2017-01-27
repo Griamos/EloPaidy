@@ -53,7 +53,7 @@ namespace xRP_Ashe
 
 
             AsheMenu = MainMenu.AddMenu("xRP Ashe", "SBTW Ashe");
-            AsheMenu.AddGroupLabel("xRP-Ashe2.0");
+            AsheMenu.AddGroupLabel("xRP-Ashe 2.0");
             AsheMenu.AddSeparator();
             AsheMenu.AddLabel("Made by: xRPdev/Fixed by Beadwarf");
 
